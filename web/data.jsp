@@ -58,12 +58,12 @@
                             </ul>
                         </div> 
             <div id="body"> <div id="vidhead" ><p>Videos</p></div>
-             <a href="data.jsp?film=video1.MP4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video1</p></div></a>
+             <a href="data.jsp?film=video1.mp4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video1</p></div></a>
              <a href="data.jsp?film=video2.MP4">   <div id="b1"><img src="video2.jpg" height="185" width="200"/><p>video2</p></div></a>
-             <a href="data.jsp?film=video1.MP4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video1</p></div></a>
+             <a href="data.jsp?film=video3.MP4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video3</p></div></a>
              <a href="data.jsp?film=video2.MP4">   <div id="b1"><img src="video2.jpg" height="185" width="200"/><p>video2</p></div></a>
-             <a href="data.jsp?film=video1.MP4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video1</p></div></a>
-             <a href="data.jsp?film=video2.MP4">   <div id="b1"><img src="video2.jpg" height="185" width="200"/><p>video2</p></div></a>
+             <a href="data.jsp?film=video1.mp4"> <div id="b1"><img src="video1.jpg" height="180" width="200"/><p>video1</p></div></a>
+             <a href="data.jsp?film=video3.MP4">   <div id="b1"><img src="video2.jpg" height="185" width="200"/><p>video3</p></div></a>
             </div>
      <div id="player">
          <video src="<%=film%>" controls autoplay width="750" height="500"/> 
